@@ -1,0 +1,5 @@
+name: ModPlugins
+version: '1.0'
+main: com.example.modplugins.ModPlugins
+api-version: '1.21'
+authors: [ XiaoCaoAwA ]
